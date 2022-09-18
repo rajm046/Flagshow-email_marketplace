@@ -1,0 +1,29 @@
+.container{
+    text-align: center;
+    margin-top: 30px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#h1{
+    color:rgb(245, 89, 89);
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.field{
+    width: 80%;
+}
+
+.card{
+    background-color: white;
+    padding: 20px;
+}
+
+.card button{
+    margin: 5px;
+}
+
+.text-center{
+    text-align: center;
+}
